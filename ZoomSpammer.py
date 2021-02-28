@@ -1,4 +1,4 @@
-#this program is to spam in chatbox
+#this program is to spam in Zoom chatbox
 
 
 import pyautogui as pg 
